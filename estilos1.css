@@ -4,7 +4,18 @@
   
 }
 
-
+.text-color{
+  color: #000!important;
+}
+.b-color{
+  background: linear-gradient(to right,#006837, #0A5F64);
+}
+#offcanvasDarkNavbar{
+  background-color:#c4ceb7!important;
+}
+.bac-color{
+  background-color:#308BC0!important;
+}
 .scrollmenu::-webkit-scrollbar-thumb {
   background-color:#c8b628;
   border-radius: 10px;       /* roundness of the scroll thumb */
